@@ -1,0 +1,10 @@
+D:\SQL\QLCB\QLCB\bin\Debug\QLCB.exe.config
+D:\SQL\QLCB\QLCB\bin\Debug\QLCB.exe
+D:\SQL\QLCB\QLCB\bin\Debug\QLCB.pdb
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.csprojAssemblyReference.cache
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.Properties.Resources.resources
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.csproj.GenerateResource.cache
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.exe
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.pdb
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.DangNhap.resources
+D:\SQL\QLCB\QLCB\obj\Debug\QLCB.ManHinhChinh.resources
